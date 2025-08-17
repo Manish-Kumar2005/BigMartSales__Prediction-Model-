@@ -3,7 +3,7 @@
 A regression-based machine learning project that predicts sales of various BigMart outlets using historical data and item-level features.  
 The goal is to help retailers make data-driven decisions related to inventory management and demand estimation.
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 
 - Python  
 - Pandas  
